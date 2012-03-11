@@ -1,0 +1,16 @@
+Нужно прочитать (можно на русском):
+
+1) http://en.wikipedia.org/wiki/Software_Prototyping
+
+2) http://en.wikipedia.org/wiki/Prototyping
+
+3) http://ru.wikipedia.org/wiki/Scrum
+
+4) http://en.wikipedia.org/wiki/Agile_software_development
+
+5) Программист-прагматик: 10, 11 главы
+
+	http://www.rulit.net/books/programmist-pragmatik-put-ot-podmasterya-k-masteru-read-10120-17.html
+	http://www.rulit.net/books/programmist-pragmatik-put-ot-podmasterya-k-masteru-read-10120-18.html
+	http://www.rulit.net/books/programmist-pragmatik-put-ot-podmasterya-k-masteru-read-10120-19.html
+	http://www.rulit.net/books/programmist-pragmatik-put-ot-podmasterya-k-masteru-read-10120-20.html
