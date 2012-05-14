@@ -48,3 +48,4 @@
 [48] Dijkstra, E.W. Guarded commands, non-determinacy and formal derivation of programs //CACM. 1975.8
 [49] Кюзара В.Е. Реализация системы проверки моделей раскрашенных сетей Петри с использованием разверток. http://www.iis.nsk.su/files/preprints/094.pdf
 [50] Vardy M.Y., Wolper P. An automata-theoretic approach to automatic program verification / Proc, 1st IEEE Symp. On Logic in COmputer Science. 1989
+[51] http://gcc.gnu.org/
