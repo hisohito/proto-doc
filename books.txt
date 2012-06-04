@@ -49,3 +49,22 @@
 [49] Кюзара В.Е. Реализация системы проверки моделей раскрашенных сетей Петри с использованием разверток. http://www.iis.nsk.su/files/preprints/094.pdf
 [50] Vardy M.Y., Wolper P. An automata-theoretic approach to automatic program verification / Proc, 1st IEEE Symp. On Logic in COmputer Science. 1989
 [51] http://gcc.gnu.org/
+[52] java
+[53] автоматическая коробка передач http://en.wikipedia.org/wiki/Automatic_transmission
+[54] JavaCC
+[55] •	GNU bison 
+[56] flex
+[57] •	Yacc
+[58] •	Сосо/R 
+[59] нисходящего рекурсивного спуска
+[60] •	ANTLR
+[61] Apache Maven 
+[62] Расширенная форма Бэкуса — Наура
+[63] абстрактное синтаксическое дерево 
+[64] rewrite-правил 
+[65] графом потока исполнения 	
+[66] http://is.ifmo.ru/papers/_lukin_bachelor.pdf
+[67] Описание Промелы и некоторых примеров программ http://sevik.ru/mstu/docs/promela-rtf.zip
+[68]
+[69]
+[70]
